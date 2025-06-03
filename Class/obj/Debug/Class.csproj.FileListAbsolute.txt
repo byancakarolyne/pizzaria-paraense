@@ -1,0 +1,34 @@
+C:\Users\Aluno\Desktop\Pizzaria\Class\bin\Debug\Class.dll
+C:\Users\Aluno\Desktop\Pizzaria\Class\bin\Debug\Class.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Pizzaria\Class\obj\Debug\Class.dll
+C:\Users\Aluno\Desktop\Pizzaria\Class\obj\Debug\Class.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\bin\Debug\Class.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\bin\Debug\Class.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\bin\Debug\Class.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\bin\Debug\Class.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Class\obj\Debug\Class.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Class\bin\Debug\Class.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Class\bin\Debug\Class.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\bin\Debug\Class.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\bin\Debug\Class.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Class\obj\Debug\Class.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\bin\Debug\Class.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\bin\Debug\Class.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\obj\Debug\Class.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Class\obj\Debug\Class.pdb

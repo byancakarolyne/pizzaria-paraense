@@ -1,0 +1,62 @@
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Controller.dll
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Controller.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Controller\obj\Debug\Controller.dll
+C:\Users\Aluno\Desktop\Pizzaria\Controller\obj\Debug\Controller.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Class.dll
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Model.dll
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Class.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Controller\bin\Debug\Model.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Controller.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Controller.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Class.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Model.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Class.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Model.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Controller.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Controller.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Class.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Model.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Class.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\bin\Debug\Model.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Controller\obj\Debug\Controller.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Controller.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Controller.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Class.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Model.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Class.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Model.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Controller.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Controller.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Class.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Model.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Class.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\bin\Debug\Model.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Controller\obj\Debug\Controller.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\obj\Debug\Controller.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\obj\Debug\Controller.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Controller.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Controller.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Class.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Model.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Class.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\bin\Debug\Model.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Controller\obj\Debug\Controller.csproj.CopyComplete

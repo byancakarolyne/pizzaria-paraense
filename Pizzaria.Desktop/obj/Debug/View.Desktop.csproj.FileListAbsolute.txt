@@ -1,0 +1,113 @@
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProduto.resources
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProdutoManutencao.resources
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmMenu.resources
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Model.dll
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\Aluno\Desktop\Pizzaria\Pizzaria.Desktop\bin\Debug\Model.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojAssemblyReference.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Model.dll
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Model.pdb
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmMenu.resources
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CopyComplete
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojAssemblyReference.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CopyComplete
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.HomeView.resources
+C:\Users\ragnarok\Downloads\Pizzaria\Pizzaria\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.ClienteView.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmMenuPrincipal.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.Cache
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmProduto.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Model.dll
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Model.pdb
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProduto.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProdutoManutencao.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCliente.resources
+C:\Users\adria\Desktop\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmPedido.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Model.dll
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\bin\Debug\Model.pdb
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojAssemblyReference.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProduto.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProdutoManutencao.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCliente.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmMenuPrincipal.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmPedido.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmProduto.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CopyComplete
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\Byanca\Downloads\Pizzaria da Adriana\Pizzaria da Adriana\Pizzaria_Adriana\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\View.Desktop.csprojAssemblyReference.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProduto.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCategoriaProdutoManutencao.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmCliente.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmMenu.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.FrmProduto.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.GenerateResource.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.exe
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\Pizzaria.Desktop.Properties.Resources.resources
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe.config
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.exe
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Pizzaria.Desktop.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Class.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Controller.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Model.dll
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Class.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Controller.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\bin\Debug\Model.pdb
+C:\Users\Byanca\Documents\Faculdade Esamc\9º SEMESTRE\COMPILADORES\Pizzaria da Byanca\Pizzaria da Byanca\PizzariaByanca\Pizzaria.Desktop\obj\Debug\View.Desktop.csproj.CopyComplete
